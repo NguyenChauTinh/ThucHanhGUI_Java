@@ -1,4 +1,4 @@
-package STT68_nguyenChauTinh_tuan4;
+package stt68_nguyenChauTinh_tuan4;
 
 import java.awt.Color;
 import java.awt.GridLayout;
