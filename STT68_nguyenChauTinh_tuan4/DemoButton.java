@@ -1,4 +1,4 @@
-package stt68_nguyenChauTinh_tuan4;
+package stt68_NguyenChauTinh_tuan4;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

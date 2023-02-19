@@ -1,4 +1,4 @@
-package stt68_nguyenChauTinh_tuan3;
+package stt68_NguyenChauTinh_tuan3;
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
