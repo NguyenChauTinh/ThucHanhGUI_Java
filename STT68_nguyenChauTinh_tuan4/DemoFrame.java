@@ -1,4 +1,4 @@
-package STT68_nguyenChauTinh_tuan4;
+package stt68_NguyenChauTinh_tuan4;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
